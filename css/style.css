@@ -67,16 +67,35 @@ body {
     -webkit-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
     -ms-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
 }
+img {
+    max-width: 100%;
+}
 .big__wrap {
     width: 100%;
     max-width: 2000px;
     margin-left: auto;
     margin-right: auto;
+    background: url("../img/Warstwa 3.png") no-repeat;
+}
+.text__division {
+    font-size: 15px;
+    font-family: "M.Video";
+    color: rgb(255, 255, 255);
+    line-height: 1.867;
+    text-align: left;
+    -moz-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
+    -webkit-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
+    -ms-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
+    padding-left: 0;
+    padding-right: 0;
+}
+.accent__block {
+    color: #ad7835;
 }
 header {
     padding-top: 355px;
     padding-bottom: 200px;
-    background: url("../img/Warstwa 3.png") no-repeat;
+
 }
 .header__title__block__wrap {
     width: 100%;
@@ -118,15 +137,12 @@ header {
 }
 .header__title {
     display: block;
-    font-size: 80px;
+    font-size: 185px;
     font-family: "Styrene A LC";
     color: rgb(255, 255, 255);
-    line-height: 0.625;
+    line-height: 0.3;
     text-align: center;
     width: 100%;
-    -moz-transform: matrix( 2.31871980151827,0,0,2.31871980151827,0,0);
-    -webkit-transform: matrix( 2.31871980151827,0,0,2.31871980151827,0,0);
-    -ms-transform: matrix( 2.31871980151827,0,0,2.31871980151827,0,0);
 }
 
 .post__title__block {
@@ -142,6 +158,9 @@ header {
     -moz-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
     -webkit-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
     -ms-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
+}
+.about__project__wrap {
+    padding-top: 120px;
 }
 
 
