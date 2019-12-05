@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'MVideo';
+    src: url('MVideo-Light.eot');
+    src: url('MVideo-Light.eot?#iefix') format('embedded-opentype'),
+        url('MVideo-Light.woff2') format('woff2'),
+        url('MVideo-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'M.Video';
+    src: url('MVideo-Bold.eot');
+    src: url('MVideo-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MVideo-Bold.woff2') format('woff2'),
+        url('MVideo-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'M.Video';
+    src: url('MVideo-Regular.eot');
+    src: url('MVideo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MVideo-Regular.woff2') format('woff2'),
+        url('MVideo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Styrene A LC';
+    src: url('StyreneALC-RegularItalic.eot');
+    src: url('StyreneALC-RegularItalic.eot?#iefix') format('embedded-opentype'),
+    url('StyreneALC-RegularItalic.woff2') format('woff2'),
+    url('StyreneALC-RegularItalic.woff') format('woff'),
+    url('StyreneALC-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Styrene A LC';
+    src: url('StyreneALC-Regular.eot');
+    src: url('StyreneALC-Regular.eot?#iefix') format('embedded-opentype'),
+    url('StyreneALC-Regular.woff2') format('woff2'),
+    url('StyreneALC-Regular.woff') format('woff'),
+    url('StyreneALC-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

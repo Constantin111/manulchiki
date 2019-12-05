@@ -1,0 +1,148 @@
+@import "../fonts/stylesheet.css";
+
+
+/*********************************
+префиксы для flex-контейнера
+*********************************/
+
+.d-flex {
+    display: -webkit-flex;
+    display: -webkit-box;
+    display: -moz-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+}
+.inline-flex {
+    display: inline-flex;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+}
+.flex-column {
+    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+}
+.flex-flow-column {
+    flex-flow: column wrap;
+    -webkit-flex-flow: column wrap;
+    -ms-flex-flow: column wrap;
+}
+.justify-between {
+    justify-content: space-between;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+}
+.align-content-around {
+    align-content: space-around;
+    -webkit-align-content: space-around;
+    -ms-flex-line-pack: distribute;
+}
+.align-items-center{
+    align-items: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+}
+
+
+body {
+    font-size: 16px;
+    font-family: "M.Video";
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+    line-height: 1.75;
+    -moz-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
+    -webkit-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
+    -ms-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
+}
+.big__wrap {
+    width: 100%;
+    max-width: 2000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    padding-top: 355px;
+    padding-bottom: 200px;
+    background: url("../img/Warstwa 3.png") no-repeat;
+}
+.header__title__block__wrap {
+    width: 100%;
+}
+.header__block__cont {
+    width: 100%;
+    max-width: 946px;
+    height: 452px;
+    padding: 0;
+    background: url("../img/header-prostocat.png") no-repeat;
+    background-size: contain;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.pre__title__block {
+    height: 120px;
+}
+.post__text__line{
+    display: block;
+    width: 92px;
+    height: 4px;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.pre__title__block__text {
+    font-size: 24px;
+    font-family: "M.Video";
+    color: rgb(173, 120, 53);
+    line-height: 2.083;
+    text-align: center;
+    margin-bottom: 0;
+}
+.title__block {
+    height: 150px;
+}
+.header__title {
+    display: block;
+    font-size: 80px;
+    font-family: "Styrene A LC";
+    color: rgb(255, 255, 255);
+    line-height: 0.625;
+    text-align: center;
+    width: 100%;
+    -moz-transform: matrix( 2.31871980151827,0,0,2.31871980151827,0,0);
+    -webkit-transform: matrix( 2.31871980151827,0,0,2.31871980151827,0,0);
+    -ms-transform: matrix( 2.31871980151827,0,0,2.31871980151827,0,0);
+}
+
+.post__title__block {
+
+}
+.post__title__block__text {
+    font-size: 24px;
+    font-family: "M.Video";
+    color: rgb(172, 117, 47);
+    text-transform: uppercase;
+    line-height: 2.083;
+    text-align: center;
+    -moz-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
+    -webkit-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
+    -ms-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
+}
+
+
+
