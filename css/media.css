@@ -24,11 +24,12 @@
     header {
         padding-top: 63px;
         padding-bottom: 0;
-        background-size: contain;
+        background-size: cover;
+        background-position: center;
     }
     .about__project__wrap {
         padding-top: 0px;
-        padding-bottom: 35px;
+        padding-bottom: 65px;
     }
     .about__project__img__block img {
         width: 100%;
