@@ -20,7 +20,7 @@
         background-size: contain;
     }
 }
-@media all and (max-width: 1321px) {
+@media all and (max-width: 1361px) {
     header {
         padding-top: 63px;
         padding-bottom: 0;
