@@ -19,6 +19,19 @@
     main {
         background-size: contain;
     }
+    .about__project__img__block {
+        padding: 0;
+        padding-top: 35px;
+    }
+    .beautiful__children__text__block {
+        font-size: 2.5em;
+    }
+    .our__donation__title__text {
+        font-size: 4.5em;
+    }
+    .our__donation__footer__text {
+        font-size: 1.2em;
+    }
 }
 @media all and (max-width: 1361px) {
     header {
@@ -35,10 +48,7 @@
         width: 100%;
         max-width: 100%;
     }
-    .about__project__img__block {
-        padding: 0;
-        padding-top: 35px;
-    }
+
     .whois__manuls__block {
         max-width: 1235px;
     }
@@ -63,11 +73,22 @@
     .our__donation__title__text {
         font-size: 4.5em;
     }
-    .our__donation__footer__text {
-        font-size: 1.3em;
-    }
+
     .beautiful__children__text__block {
         font-size: 2.3em;
+    }
+    .whois__manuls__block__item:first-child {
+        padding-left: 10px;
+        padding-right: 0px;
+    }
+    .whois__manuls__block__item:last-child {
+        padding-right: 0px;
+        padding-left: 30px;
+    }
+    .whois__manuls__block__item:nth-child(2) {
+        margin-top: 85px;
+        padding-left: 26px;
+        padding-right: 11px;
     }
 }
 @media all and (max-width: 1024px) {
