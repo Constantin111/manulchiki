@@ -84,6 +84,8 @@ img {
     margin-right: auto;
     /*background: url("../img/Warstwa3.png") no-repeat;*/
     background-position-x: center;
+    padding-left: 0;
+    padding-right: 0;
 }
 .text__division {
     font-size: 15px;
@@ -146,7 +148,7 @@ header {
 }
 .header__title {
     display: block;
-    font-size: 185px;
+    font-size: 10rem;
     font-family: "Styrene A LC";
     color: rgb(255, 255, 255);
     line-height: 0.3;
@@ -377,6 +379,7 @@ main {
 
 .our__donation__wrap {
     background: url("../img/our-donation-bg.png") no-repeat;
+    background-position: center;
     padding-top: 130px;
     padding-bottom: 100px;
 }
@@ -456,7 +459,7 @@ main {
     padding-bottom: 65px;
 }
 .beautiful__children__text__block {
-    font-size: 42px;
+    font-size: 2.8em;
     font-family: "M.Video";
     font-weight: 300;
     color: rgb(255, 255, 255);

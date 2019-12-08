@@ -1,0 +1,197 @@
+@media all and (max-width: 1441px) {
+    header {
+        padding-top: 107px;
+        padding-bottom: 0;
+        background-size: contain;
+    }
+    .header__block__cont {
+        margin-bottom: 100px;
+    }
+    .about__project__wrap {
+        padding-top: 0px;
+        padding-bottom: 95px;
+    }
+    .about__project__img__block img {
+        width: 107%;
+        max-width: 107%;
+    }
+
+    main {
+        background-size: contain;
+    }
+}
+@media all and (max-width: 1321px) {
+    header {
+        padding-top: 63px;
+        padding-bottom: 0;
+        background-size: contain;
+    }
+    .about__project__wrap {
+        padding-top: 0px;
+        padding-bottom: 35px;
+    }
+    .about__project__img__block img {
+        width: 100%;
+        max-width: 100%;
+    }
+    .about__project__img__block {
+        padding: 0;
+        padding-top: 35px;
+    }
+    .whois__manuls__block {
+        max-width: 1235px;
+    }
+    .what__dangeros__block {
+        max-width: 1290px;
+    }
+    .help__manuls__block {
+        max-width: 1290px;
+    }
+    .gallery__manuls__item__img {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    .gallery__manuls__item__img img{
+        height: 94%;
+        width: auto;
+    }
+    .our__donation__header__text {
+        font-size: 2.3em;
+    }
+    .our__donation__title__text {
+        font-size: 4.5em;
+    }
+    .our__donation__footer__text {
+        font-size: 1.3em;
+    }
+    .beautiful__children__text__block {
+        font-size: 2.3em;
+    }
+}
+@media all and (max-width: 1024px) {
+    .whois__manuls__block__item:first-child {
+        padding-left: 30px;
+        padding-right: 10px;
+    }
+    .whois__manuls__block__item:last-child {
+        padding-right: 16px;
+        padding-left: 10px;
+    }
+    .whois__manuls__item__img {
+        background-color: rgb(55, 55, 55);
+        width: 283px;
+        height: 199px;
+        position: relative;
+        margin-bottom: 65px;
+    }
+    .beautiful__children__text__block {
+        font-size: 2.0em;
+    }
+    .cat__paw__img2 {
+        top: 0px;
+        left: 83px;
+    }
+    .help__manuls__text__line {
+        font-size: 25px;
+    }
+    .help__manuls__section__title {
+        font-size: 1.8em;
+    }
+    .help__manuls__text__wrap {
+        padding-bottom: 20px;
+        padding-top: 10px;
+        position: relative;
+    }
+    .help__manuls__button__block {
+        padding-top: 30px;
+    }
+    .our__donation__title__text {
+        font-size: 3.5em;
+    }
+    .our__donation__footer__text {
+        font-size: 1em;
+    }
+    .our__donation__header__text {
+        font-size: 1.9em;
+    }
+    .gallery__manuls__item__img img {
+        height: auto;
+        width: 67%;
+    }
+    .what__dangeros__block__img {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+
+}
+
+@media all and (max-width: 768px) {
+    .about__project__wrap {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .about__project__description__block {
+        width: 100%;
+    }
+    .about__project__img__block {
+        width: 100%;
+    }
+    .whois__manuls__block__item {
+        width: 100%;
+        margin-top: 70px;
+    }
+    .whois__manuls__block__item:last-child {
+        padding-right: 16px;
+        padding-left: 30px;
+    }
+    .what__dangeros__block__img {
+        width: 100%;
+    }
+    .what__dangeros__block__description {
+        width: 100%;
+    }
+    .our__donation__header__text {
+        font-size: 1.4em;
+    }
+    .beautiful__children__text__block {
+        font-size: 1.6em;
+    }
+    .help__manuls__text__line {
+        font-size: 18px;
+    }
+    .help__manuls__block__img {
+        margin-top: 0px;
+        margin-bottom: 0;
+        padding-top: 14px;
+    }
+    .help__manuls__block__description {
+        padding-top: 20px;
+        padding-left: 60px;
+        padding-bottom: 20px;
+    }
+    .help__manuls__block {
+        padding-bottom: 14px;
+    }
+    .header__title {
+        font-size: 6rem;
+    }
+    .title__block {
+        height: 80px;
+    }
+    .pre__title__block {
+        height: 90px;
+    }
+    .post__title__block__text {
+        font-size: 17px;
+    }
+    .header__block__cont {
+        width: 100%;
+        max-width: 656px;
+        height: 320px;
+    }
+    main {
+        padding-bottom: 159px;
+    }
+}
