@@ -69,9 +69,6 @@ body {
     font-weight: normal;
     color: rgb(255, 255, 255);
     line-height: 1.75;
-    -moz-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
-    -webkit-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
-    -ms-transform: matrix( 1.0015778812604,0,0,1.0015778812604,0,0);
     background: #1d1d1d;
 }
 img {
@@ -86,6 +83,7 @@ img {
     background-position-x: center;
     padding-left: 0;
     padding-right: 0;
+    overflow: hidden;
 }
 .text__division {
     font-size: 15px;
