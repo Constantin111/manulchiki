@@ -12,8 +12,8 @@
         padding-bottom: 95px;
     }
     .about__project__img__block img {
-        width: 107%;
-        max-width: 107%;
+        width: 100%;
+        max-width: 100%;
     }
 
     main {
