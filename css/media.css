@@ -2,7 +2,7 @@
     header {
         padding-top: 107px;
         padding-bottom: 0;
-        background-size: contain;
+        background-size: cover;
     }
     .header__block__cont {
         margin-bottom: 100px;
