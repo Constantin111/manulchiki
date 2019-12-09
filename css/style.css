@@ -477,8 +477,8 @@ main {
     padding-bottom: 80px;
 }
 .beautiful__children__block {
-    padding-left: 110px;
-    padding-right: 110px;
+    padding-left: 0px;
+    padding-right: 0px;
     max-width: 1440px;
 }
 .beautiful__children__block__content {
@@ -612,6 +612,36 @@ main {
 
 /* сaught__trap__block__content */
 
+.сaught__trap__wrap {
+    padding-top: 80px;
+}
 .сaught__trap__block__content {
+    width: 100%;
+    max-width: 1308px;
     position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+}
+.сaught__trap__banner__block {
+    position: absolute;
+    left: 383px;
+    bottom: -30px;
+}
+.сaught__trap__img__block2 {
+    position: relative;
+    right: -430px;
+    margin-top: -230px;
+}
+.сaught__trap__block__content .cat__paw__img1 {
+    right: 419px;
+    left: unset;
+    width: 65px;
+    top: 80px;
+}
+.сaught__trap__block__content .cat__paw__img2 {
+    bottom: 188px;
+    left: 290px;
+    width: 65px;
+    top: unset;
 }
