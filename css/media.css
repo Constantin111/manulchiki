@@ -1,38 +1,10 @@
 @media all and (max-width: 1441px) {
-    header {
-        padding-top: 107px;
-        background-size: cover;
-    }
-    .header__block__cont {
-        margin-bottom: 100px;
-    }
-    .about__project__wrap {
-        padding-top: 134px;
-        padding-bottom: 95px;
-    }
-    .about__project__img__block img {
-        width: 100%;
-        max-width: 100%;
-    }
-
     main {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 230px;
         background-size: contain;
     }
-    .about__project__img__block {
-        padding: 0;
-        padding-top: 35px;
-    }
-    .beautiful__children__text__block {
-        font-size: 2.5em;
-    }
-    .our__donation__title__text {
-        font-size: 4.5em;
-    }
-    .our__donation__footer__text {
-        font-size: 1.2em;
-    }
-}
-@media all and (max-width: 1361px) {
     header {
         padding-top: 63px;
         background-size: cover;
@@ -45,6 +17,86 @@
     .about__project__img__block img {
         width: 100%;
         max-width: 100%;
+        padding-top: 20px;
+    }
+
+    .whois__manuls__block {
+        max-width: 1235px;
+    }
+    .what__dangeros__block {
+        max-width: 1290px;
+    }
+    .help__manuls__block {
+        max-width: 1290px;
+    }
+    .gallery__manuls__item__img {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    .gallery__manuls__item__img img{
+        height: 100%;
+        width: auto;
+    }
+    .our__donation__wrap {
+        padding-top: 250px;
+    }
+    .our__donation__header__text {
+        font-size: 2.3em;
+    }
+    .our__donation__title__text {
+        font-size: 4em;
+    }
+
+    .beautiful__children__text__block {
+        font-size: 2.3em;
+    }
+    .whois__manuls__block__item:first-child {
+        padding-left: 10px;
+        padding-right: 0px;
+    }
+    .whois__manuls__block__item:last-child {
+        padding-right: 0px;
+        padding-left: 30px;
+    }
+    .whois__manuls__block__item:nth-child(2) {
+        margin-top: 85px;
+        padding-left: 26px;
+        padding-right: 11px;
+    }
+    .what__dangeros__text__wrap2 .text__division {
+        font-size: 26px;
+    }
+    .сaught__trap__block__content .cat__paw__img2 {
+        bottom: 253px;
+        left: 190px;
+        width: 65px;
+        top: unset;
+    }
+    .beautiful__children__text__block {
+        font-size: 2em;
+        line-height: 2;
+    }
+}
+@media all and (max-width: 1361px) {
+    main {
+        padding-bottom: 230px;
+        background-size: contain;
+    }
+    header {
+        padding-top: 180px;
+        padding-bottom: 23px;
+        background-size: cover;
+        background-position: center;
+    }
+    .about__project__wrap {
+        padding-top: 134px;
+        padding-bottom: 65px;
+    }
+    .about__project__img__block img {
+        width: 100%;
+        max-width: 100%;
+        padding-top: 40px;
     }
 
     .whois__manuls__block {
@@ -73,7 +125,8 @@
     }
 
     .beautiful__children__text__block {
-        font-size: 2.3em;
+        font-size: 2em;
+        line-height: 2;
     }
     .whois__manuls__block__item:first-child {
         padding-left: 10px;
@@ -88,8 +141,66 @@
         padding-left: 26px;
         padding-right: 11px;
     }
+    .сaught__trap__img__block2 {
+        right: -195px;
+        margin-top: -87px;
+    }
+    .beautiful__children__block {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+    .сaught__trap__block__content .cat__paw__img1 {
+        right: 300px;
+    }
+    .help__manuls__text__line {
+        font-size: 28px;
+        font-family: "M.Video";
+        color: rgb(255, 255, 255);
+        line-height: 1.407;
+        text-align: left;
+    }
+
 }
 @media all and (max-width: 1024px) {
+    .header__block__cont {
+        max-width: 780px;
+        height: 382px;
+    }
+    .header__title {
+        font-size: 8rem;
+    }
+    .title__block {
+        height: 110px;
+    }
+    .pre__title__block {
+        height: 80px;
+    }
+    .pre__title__block__text {
+        font-size: 20px;
+    }
+    .post__title__block__text {
+        font-size: 20px;
+    }
+    .about__project__title {
+        font-size: 35px;
+    }
+    .post__title__line {
+        width: 60px;
+        height: 3px;
+    }
+    .text__division {
+        font-size: 13px;
+        font-family: "M.Video";
+        color: rgb(255, 255, 255);
+        line-height: 1.4;
+    }
+    .manuls__section__title {
+        font-size: 40px
+    }
+    .gallery__manuls__wrap {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
     .whois__manuls__block__item:first-child {
         padding-left: 30px;
         padding-right: 10px;
@@ -106,14 +217,14 @@
         margin-bottom: 65px;
     }
     .beautiful__children__text__block {
-        font-size: 2.0em;
+        font-size: 1.3em;
     }
     .cat__paw__img2 {
         top: 0px;
         left: 83px;
     }
     .help__manuls__text__line {
-        font-size: 25px;
+        font-size: 20px;
     }
     .help__manuls__section__title {
         font-size: 1.8em;
@@ -137,12 +248,62 @@
     }
     .gallery__manuls__item__img img {
         height: auto;
-        width: 67%;
+        width: 100%;
     }
     .what__dangeros__block__img {
         margin-top: 0px;
         margin-bottom: 0px;
         text-align: center;
+    }
+    .gallery__manuls__wrap {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .what__dangeros__text__wrap2 .text__division {
+        font-size: 16px;
+    }
+    .our__donation__footer__block {
+        width: 100%;
+        max-width: 710px;
+        padding-left: 50px;
+    }
+    .our__donation__wrap {
+        padding-top: 100px;
+        background-size: cover;
+    }
+    .our__donation__title__text {
+        font-size: 2.7em;
+    }
+    .our__donation__footer__text {
+        line-height: 2;
+    }
+    .сaught__trap__img__block2 {
+        right: 0;
+        margin-top: 37px;
+    }
+    .histori__one__manul__block {
+        width: 463px;
+    }
+    .histori__one__manul__title {
+        font-size: 2em;
+    }
+    .сaught__trap__img__block1 {
+        display: inline-block;
+        width: 49%;
+        min-width: 320px;
+    }
+    .сaught__trap__img__block2 {
+        display: inline-block;
+        width: 49%;
+        min-width: 320px;
+    }
+    .сaught__trap__banner__block {
+        position: absolute;
+        left: 9px;
+        bottom: -30px;
+    }
+    .whois__manuls__title {
+        font-size: 2.8em;
     }
 
 }
@@ -176,10 +337,16 @@
         font-size: 1.4em;
     }
     .beautiful__children__text__block {
-        font-size: 1.6em;
+        font-size: 1em;
     }
     .help__manuls__text__line {
-        font-size: 18px;
+        font-size: 14px;
+    }
+    .our__donation__title__text {
+        font-size: 2.0em;
+    }
+    .our__donation__footer__block {
+        max-width: 500px;
     }
     .help__manuls__block__img {
         margin-top: 0px;
@@ -213,5 +380,240 @@
     }
     main {
         padding-bottom: 159px;
+    }
+    .whois__manuls__block__title {
+        max-width: 550px;
+        height: 70px;
+        padding-top: 30px;
+    }
+    .what__dangeros__block__img2 {
+        margin-top: 15px;
+        margin-bottom: -30px;
+    }
+    .сaught__trap__img__block1 {
+        display: inline-block;
+        width: 100%;
+        min-width: 300px;
+    }
+    .сaught__trap__img__block2 {
+        display: inline-block;
+        width: 100%;
+        min-width: 300px;
+    }
+    .histori__one__manul__block {
+        max-width: 662px;
+        padding-bottom: 0px;
+        padding-left: 50px;
+    }
+    .whois__manuls__item__img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .help__manuls__section__title {
+        font-size: 1.2em;
+    }
+    .lapa__manul__block1 {
+        width: 60px;
+    }
+    .lapa__manul__block2 {
+        width: 60px;
+    }
+    .histori__one__manul__wrap {
+        padding-top: 80px;
+        padding-bottom: 10px;
+    }
+    .our__donation__footer__text {
+        line-height: 1.7;
+        padding-left: 0;
+    }
+    .our__donation__footer__text {
+        font-size: 0.9em;
+    }
+    .what__dangeros__block.what__dangeros__block2 {
+        margin-top: 100px;
+    }
+}
+@media all and (max-width: 426px) {
+    .header__title {
+        font-size: 3rem;
+    }
+    .pre__title__block__text {
+        font-size: 13px;
+    }
+    .post__title__block__text {
+        font-size: 10px;
+    }
+    .title__block {
+        height: 40px;
+    }
+    .pre__title__block {
+        height: 40px;
+    }
+    .post__text__line {
+        display: block;
+        width: 54px;
+        height: 2px;
+    }
+    .header__block__cont {
+        width: 100%;
+        max-width: 656px;
+        height: 195px;
+    }
+    .header__block__cont {
+        width: 100%;
+        max-width: 656px;
+        height: 195px;
+    }
+    header {
+        padding-top: 86px;
+    }
+    .header__block__cont {
+        width: 100%;
+        max-width: 398px;
+        height: 195px;
+        margin-bottom: 60px;
+    }
+    .about__project__title {
+        font-size: 25px;
+    }
+    .about__project__description__block {
+        padding-left: 35px;
+        padding-top: 60px;
+        padding-bottom: 30px;
+        padding-right: 30px;
+    }
+    .whois__manuls__title {
+        font-size: 1.8em;
+    }
+    .whois__manuls__block__title {
+        max-width: 314px;
+        height: 70px;
+        padding-top: 30px;
+        padding-left: 23px;
+        text-align: center;
+    }
+    .manuls__section__title {
+        font-size: 30px;
+    }
+    .gallery__manuls__items__col:first-child {
+        text-align: right;
+        padding-top: 15px;
+    }
+    .what__dangeros__text__wrap2 {
+        padding-left: 0px;
+    }
+    .our__donation__title__block {
+        padding-bottom: 50px;
+    }
+    .our__donation__footer__block {
+        width: 100%;
+        max-width: 710px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+        padding-right: 10px;
+    }
+    .beautiful__children__block {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .сaught__trap__block__content {
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+    .сaught__trap__block__content .cat__paw__img1 {
+        right: 333px;
+    }
+    .beautiful__children__block__content {
+        padding-bottom: 25px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .cat__paw__img2 {
+        top: 0px;
+        left: 8px;
+    }
+    .beautiful__children__block__content .cat__paw__img1 {
+        top: -20px;
+        right: 33px;
+        width: 70px;
+    }
+    .histori__one__manul__title {
+        font-size: 1.4em;
+    }
+    .help__manuls__wrap {
+        padding-top: 30px;
+    }
+    .help__manuls__title__wrap {
+        margin-bottom: 10px;
+    }
+    .what__dangeros__block__img {
+        width: 100%;
+        top: -30px;
+    }
+    .whois__manuls__block__item:first-child {
+        padding-left: 0px;
+        padding-right: 11px;
+    }
+    .whois__manuls__block__item:nth-child(2) {
+        margin-top: 55px;
+        padding-left: 0px;
+        padding-right: 11px;
+    }
+    .whois__manuls__block__item:last-child {
+        padding-right: 11px;
+        padding-left: 0px;
+    }
+    .what__dangeros__list {
+        padding-left: 0px;
+        font-size: 13px;
+    }
+    .our__donation__title__text {
+        font-size: 1.5em;
+    }
+    .сaught__trap__img__block1 {
+        min-width: 200px;
+    }
+    .сaught__trap__img__block2 {
+        min-width: 200px;
+    }
+}
+@media all and (max-width: 376px) {
+    .histori__one__manul__block {
+        padding-left: 0px;
+    }
+    .help__manuls__block__description {
+        padding-top: 20px;
+        padding-left: 15px;
+        padding-bottom: 20px;
+    }
+    .whois__manuls__item__img {
+        margin-left: 0;
+        margin-right: auto;
+    }
+    .header__block__cont {
+        width: 100%;
+        max-width: 398px;
+        height: 195px;
+        margin-bottom: 15px;
+    }
+    .header__block__cont {
+        height: 165px;
+        margin-bottom: 15px;
+    }
+    .gallery__manuls__block,.gallery__manuls__block__items {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .manuls__section__title {
+        font-size: 25px;
+    }
+    .сaught__trap__block__content .cat__paw__img2 {
+        bottom: 253px;
+        left: -10px;
+        width: 65px;
+        top: unset;
+    }
+    .сaught__trap__block__content .cat__paw__img1 {
+        right: -13px;
     }
 }
