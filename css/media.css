@@ -1,7 +1,6 @@
 @media all and (max-width: 1441px) {
     header {
         padding-top: 107px;
-        padding-bottom: 0;
         background-size: cover;
     }
     .header__block__cont {
@@ -36,7 +35,6 @@
 @media all and (max-width: 1361px) {
     header {
         padding-top: 63px;
-        padding-bottom: 0;
         background-size: cover;
         background-position: center;
     }
