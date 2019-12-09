@@ -236,7 +236,7 @@ main {
 }
 /*whois manuls block*/
 .whois__manuls__wrap {
-    padding-top: 90px;
+    padding-top: 40px;
     padding-bottom: 0px;
 }
 .whois__manuls__block {
@@ -260,6 +260,7 @@ main {
     height: 150px;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 70px;
 }
 
 .whois__manuls__title {
