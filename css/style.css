@@ -494,6 +494,10 @@ main {
     padding-left: 100px;
     padding-right: 60px;
 }
+.beautiful__children__block__content .cat__paw__img {
+    position: absolute;
+    width: 110px;
+}
 .beautiful__children__logo__block {
     text-align: center;
     padding-bottom: 65px;
@@ -514,9 +518,10 @@ main {
 .cat__paw__img {
     position: absolute;
 }
-.cat__paw__img1 {
-    top: 72px;
-    right: 50px;
+.beautiful__children__block__content .cat__paw__img1 {
+    top: -20px;
+    right: 181px;
+    width: 70px;
 }
 .cat__paw__img2 {
     top: 10px;
@@ -527,8 +532,17 @@ main {
     left: -95px;
 }
 .cat__paw__img4 {
-    bottom: -95px;
-    right: -104px;
+    bottom: -54px;
+    right: -41px;
+}
+.beautiful__children__block__content .cat__paw__img5 {
+    bottom: -34px;
+    width: 90px;
+}
+.cat__paw__img6 {
+    right: 52px;
+    top: 45%;
+    width: 80px;
 }
 
 /*histori__one__manul__wrap*/
