@@ -7,7 +7,7 @@
         margin-bottom: 100px;
     }
     .about__project__wrap {
-        padding-top: 0px;
+        padding-top: 134px;
         padding-bottom: 95px;
     }
     .about__project__img__block img {
@@ -39,7 +39,7 @@
         background-position: center;
     }
     .about__project__wrap {
-        padding-top: 0px;
+        padding-top: 134px;
         padding-bottom: 65px;
     }
     .about__project__img__block img {
@@ -149,7 +149,7 @@
 
 @media all and (max-width: 768px) {
     .about__project__wrap {
-        padding-top: 0px;
+        padding-top: 70px;
         padding-bottom: 0px;
     }
     .about__project__description__block {

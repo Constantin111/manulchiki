@@ -237,7 +237,7 @@ main {
 /*whois manuls block*/
 .whois__manuls__wrap {
     padding-top: 90px;
-    padding-bottom: 112px;
+    padding-bottom: 0px;
 }
 .whois__manuls__block {
     max-width: 1315px;
@@ -608,4 +608,10 @@ main {
 .lapa__manul__block2 {
     right: -34px;
     top: 0px;
+}
+
+/* сaught__trap__block__content */
+
+.сaught__trap__block__content {
+    position: relative;
 }
