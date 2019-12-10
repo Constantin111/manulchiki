@@ -522,6 +522,8 @@ main {
 }
 .beautiful__children__block__content .our__donation__title__text {
     color: rgb(173, 120, 53);
+    font-size: 3.5em;
+    font-weight: 500;
 }
 .beautiful__children__block__content .cat__paw__img1 {
     top: -20px;
