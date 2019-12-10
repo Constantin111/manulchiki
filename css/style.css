@@ -377,6 +377,7 @@ main {
     width: 15px;
     height: 15px;
     background: url("../img/iconmonstr-cat-4.png");
+    margin-right: 5px;
 }
 .what__dangeros__block.what__dangeros__block2 {
     margin-top: 220px;

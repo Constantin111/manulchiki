@@ -74,7 +74,12 @@
     }
     .beautiful__children__text__block {
         font-size: 2em;
-        line-height: 2;
+        line-height: 1.8;
+    }
+    .сaught__trap__banner__block {
+        position: absolute;
+        left: 250px;
+        bottom: -30px;
     }
 }
 @media all and (max-width: 1361px) {
@@ -124,8 +129,8 @@
     }
 
     .beautiful__children__text__block {
-        font-size: 2em;
-        line-height: 2;
+        font-size: 1.7em;
+        line-height: 1.8;
     }
     .whois__manuls__block__item:first-child {
         padding-left: 10px;
@@ -258,8 +263,12 @@
         padding-top: 50px;
         padding-bottom: 20px;
     }
+    .what__dangeros__text__wrap2 {
+        padding-left: 45px;
+        padding-right: 20px;
+    }
     .what__dangeros__text__wrap2 .text__division {
-        font-size: 16px;
+        font-size: 15px;
     }
     .our__donation__footer__block {
         width: 100%;
