@@ -35,7 +35,6 @@
         box-sizing: border-box;
     }
     .gallery__manuls__item__img img{
-        height: 100%;
         width: auto;
     }
     .our__donation__wrap {
