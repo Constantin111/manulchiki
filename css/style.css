@@ -230,6 +230,23 @@ main {
     text-align: center;
     text-transform: uppercase;
 }
+.button__link:hover {
+    text-decoration: none;
+    background: rgb(173, 120, 53);
+    color: #000;
+}
+.detipriroda__link__wrap {
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+}
+.detipriroda__link:hover {
+    color: rgb(173, 120, 53);
+}
+.detipriroda__link {
+    color: rgb(173, 120, 53);
+}
 .button__link__center {
     margin-left: auto;
     margin-right: auto;
@@ -583,14 +600,14 @@ main {
     max-width: 1440px;
 }
 .help__manuls__block__img {
-    margin-top: -50px;
-    margin-bottom: -50px;
+    margin-top: 63px;
     position: relative;
     text-align: center;
 }
 .help__manuls__block__description {
     padding-top: 50px;
     padding-left: 60px;
+    padding-bottom: 20px;
 }
 .help__manuls__title__wrap {
     margin-bottom: 40px;
@@ -623,12 +640,12 @@ main {
     position: absolute;
 }
 .lapa__manul__block1 {
-    top: 42px;
+    top: -114px;
     right: 35px;
 }
 .lapa__manul__block2 {
     right: -34px;
-    top: 0px;
+    bottom: 0px;
 }
 
 /* сaught__trap__block__content */

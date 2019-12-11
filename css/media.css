@@ -163,6 +163,9 @@
         line-height: 1.407;
         text-align: left;
     }
+    .whois__manuls__item__text {
+        padding-right: 20px;
+    }
 
 }
 @media all and (max-width: 1024px) {
