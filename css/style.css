@@ -356,7 +356,7 @@ main {
 
 .what__dangeros__wrap {
     margin-top: 90px;
-    margin-bottom: 168px;
+    margin-bottom: 200px;
 }
 .what__dangeros__block {
     background: #373737;
@@ -397,7 +397,7 @@ main {
     margin-right: 5px;
 }
 .what__dangeros__block.what__dangeros__block2 {
-    margin-top: 220px;
+    margin-top: 120px;
 }
 .what__dangeros__block__description2 {
     padding-top: 30px;
@@ -651,7 +651,7 @@ main {
 /* сaught__trap__block__content */
 
 .сaught__trap__wrap {
-    padding-top: 80px;
+    padding-top: 140px;
 }
 .сaught__trap__block__content {
     width: 100%;
