@@ -323,7 +323,10 @@
     .whois__manuls__title {
         font-size: 2.8em;
     }
-
+    .lapa__manul__block2 {
+        right: -34px;
+        bottom: -70px;
+    }
 }
 
 @media all and (max-width: 768px) {
