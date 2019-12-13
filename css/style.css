@@ -237,6 +237,11 @@ main {
     background: rgb(173, 120, 53);
     color: #000;
 }
+.button__link:visited,.button__link:focus {
+    text-decoration: none;
+    background: rgb(173, 120, 53);
+    color: #000;
+}
 .detipriroda__link__wrap {
     max-width: 1440px;
     margin-left: auto;
