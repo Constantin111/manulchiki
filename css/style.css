@@ -243,10 +243,13 @@ main {
     margin-right: auto;
     text-align: right;
 }
+.detipriroda__link {
+    color: rgb(173, 120, 53);
+}
 .detipriroda__link:hover {
     color: rgb(173, 120, 53);
 }
-.detipriroda__link {
+.detipriroda__link:visited,.detipriroda__link:focus {
     color: rgb(173, 120, 53);
 }
 .button__link__center {
@@ -430,8 +433,8 @@ main {
 .our__donation__wrap {
     background: url("../img/our-donation-bg1.jpg") no-repeat;
     background-position: center;
-    padding-top: 350px;
-    padding-bottom: 100px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 .our__donation__block {
     max-width: 1440px;
