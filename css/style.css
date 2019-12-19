@@ -179,6 +179,7 @@ header {
 main {
     background: url("../img/main-bg.jpg") repeat-y;
     padding-bottom: 400px;
+    background-size: contain;
 }
 .about__project__wrap {
     padding-top: 126px;
